@@ -1,0 +1,1 @@
+<?phpinclude 'config.php';if(!isset($_SESSION)) session_start();if(isset ($_POST["send"])){$uname=$_POST["myname"];header('Location:test.php');exit();}?>

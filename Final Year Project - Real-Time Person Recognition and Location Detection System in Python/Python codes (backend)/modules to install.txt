@@ -1,0 +1,10 @@
+numpy
+pandas
+imutils
+cmake
+dlib
+face_recognition
+opencv-python
+keras
+tensorflow
+install any other module that comes as error while executing.
